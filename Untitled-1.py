@@ -8,3 +8,4 @@ def add():
     print(a/b)
 
 add()
+add()
